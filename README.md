@@ -1,17 +1,19 @@
 # arm_learn_english
 
-A new Flutter project.
+App mobile for learn language 
 
-## Getting Started
+## For Download project do this steps
 
-This project is a starting point for a Flutter application.
+- Step 1 should have git , Dart and Flutter  
 
-A few resources to get you started if this is your first Flutter project:
+- Step 2 : 
+ ```
+ git colne https://github.com/ayyad1/SayIt
+ ```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Step 3  write this command in terminal : 
+ ```
+  flutter pub get 
+ ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  -------------

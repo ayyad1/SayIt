@@ -7,6 +7,6 @@ void main() {
   testWidgets('LoginScreen smoke test', (WidgetTester tester) async {
     await tester.pumpWidget(const ProviderScope(child: MyApp()));
 
-    expect(find.text('Welcome to SayIt'), findsOneWidget);
+    expect(find.text('Hvfkmdpqefi'), findsOneWidget);
   });
 }
